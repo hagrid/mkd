@@ -1,6 +1,8 @@
 # mdk
 Task runner / Software builder / Deployment tool
 
+Test <strong>html</strong>
+
 <b style="color: red">
 
 <mdk param1="one" param2="two">
