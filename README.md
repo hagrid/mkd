@@ -1,6 +1,8 @@
 # mdk
 Task runner / Software builder / Deployment tool
 
+<b style="color: red">
+
 <mdk param1="one" param2="two">
 
 Test1
@@ -21,3 +23,5 @@ Test3
 ```sh
 echo "Hi $USER"
 ```
+
+</b>
