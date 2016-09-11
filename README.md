@@ -1,7 +1,8 @@
 # mdk
 Task runner / Software builder / Deployment tool
 
-```diff param=one second=two
+<mdk param1="one" param2="two" />
+```diff
 - testing
 + google code fence highlighting
 ```
